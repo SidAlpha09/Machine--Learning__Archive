@@ -1,20 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[11]:
-
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -43,8 +26,6 @@ print(clf.predict(Data))
 
 # 4,7 is in the 0 side and 10,6 is in the 1 side
 
-
-# In[19]:
 
 
 #now to see what is happening behind
