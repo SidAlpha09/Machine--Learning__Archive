@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 # why pandas? gives more flexibility and allows to work with larger datasets
 # groupby
 # getdummy
